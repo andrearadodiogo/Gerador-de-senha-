@@ -1,1 +1,11 @@
+*{
+ margin: 0 auto;
+ width: 100%
+ box-sizing: border-box;
+ font-family: sans-serif;
+}body{
+ backgroud-color: #18181B
+ width: 100%;
+ height: 100vh;
+ display: flex;
 
